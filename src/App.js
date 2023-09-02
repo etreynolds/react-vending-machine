@@ -1,5 +1,6 @@
 import React from 'react';
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { BrowserRouter, Route, Switch } from 'react-router-dom/cjs/react-router-dom.min';
+
 import VendingMachine from './VendingMachine';
 import Pop from './Pop';
 import Cheetos from './Cheetos';
