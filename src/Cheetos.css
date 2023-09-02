@@ -1,0 +1,10 @@
+.Cheetos {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 100vh;
+}
+
+.Cheetos img {
+    height: 200px;
+}

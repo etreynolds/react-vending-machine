@@ -1,0 +1,10 @@
+.Candy {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 100vh;
+}
+
+.Candy img {
+    height: 200px;
+}
